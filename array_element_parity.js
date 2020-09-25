@@ -14,6 +14,11 @@ Examples:
 [1, -1, 2, -2, 3, 3] => 3
 
 (the only-positive or only-negative integer may appear more than once)
+
+URL: https://www.codewars.com/kata/5a092d9e46d843b9db000064/javascript
+resources:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
+https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers
 */
 
 //my solution
